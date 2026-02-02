@@ -1,0 +1,8 @@
+# Default code owners for all files
+* @atnplex/maintainers
+
+# GitHub Actions workflows require admin review
+.github/ @atnplex/admins
+
+# Security policies require security team review
+SECURITY.md @atnplex/security
